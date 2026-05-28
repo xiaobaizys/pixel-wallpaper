@@ -193,6 +193,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   padding: 6px 0;
   overflow-x: auto;
   scrollbar-width: none;
+  text-align: center;
 }
 
 .category-bar::-webkit-scrollbar { display: none; }
